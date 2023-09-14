@@ -32,7 +32,7 @@ C compiler
 3. Run the program
 4. Follow the on-screen prompts to use the hospital management system, including inputting patient data, editing records, billing, using the help function, and deleting patient records.
 
-# Contributing members
+# Contributors
 1. Nidhi Tank
 2. Panthee Patel
 3. Khushi Talsania
